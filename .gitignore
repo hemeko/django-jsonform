@@ -18,3 +18,7 @@ var/
 .eggs
 .installed.cfg
 local/
+
+
+.idea/
+.DS_Store
